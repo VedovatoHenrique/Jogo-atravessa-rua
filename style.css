@@ -1,0 +1,30 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #C0C0C0
+}
+main{
+  margin-left: 700px;
+}
+canvas {
+  display: block;
+}
+
+h2{
+  text-align: center;
+}
+div{
+  display: flex;
+  flex-direction: row;
+  margin-left: 389px;
+  margin-right: -162px;
+  margin-bottom: -8px;
+  margin-top: -10px
+}
+div .pontos{
+  
+}
+div .vidas{
+
+}
